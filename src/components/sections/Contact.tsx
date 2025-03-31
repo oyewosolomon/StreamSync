@@ -331,15 +331,7 @@ const ContactSection: React.FC = () => {
                     <div className="text-white">contact@streamsync.tech</div>
                   </div>
                 </div>
-                <div className="flex items-center gap-4">
-                  <div className="bg-blue-500/10 p-3 rounded-lg">
-                    <Phone className="w-6 h-6 text-blue-400" />
-                  </div>
-                  <div>
-                    <div className="text-sm text-gray-400">Phone</div>
-                    <div className="text-white">+1 (555) 123-4567</div>
-                  </div>
-                </div>
+               
                 <div className="flex items-center gap-4">
                   <div className="bg-blue-500/10 p-3 rounded-lg">
                     <MessageSquare className="w-6 h-6 text-blue-400" />
