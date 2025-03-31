@@ -232,7 +232,7 @@ const PricingSection = () => {
 const TestimonialsAndPricing = () => {
   return (
     <>
-      <TestimonialsSection />
+      {/* <TestimonialsSection /> */}
       <PricingSection />
     </>
   );
